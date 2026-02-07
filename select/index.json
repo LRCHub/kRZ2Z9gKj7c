@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SIDELINE（feat. yvnlazy）",
+  "base_artist": "Ludio",
+  "createdAt": "2026-02-07T14:13:11.265791Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SIDELINE (feat. yvnlazy)",
+      "artist": "Ludio",
+      "has_synced": false,
+      "path": "select/pl_01_SIDELINE_(feat._yvnlazy)_Ludio.txt"
+    }
+  ]
+}
